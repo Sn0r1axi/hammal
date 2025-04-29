@@ -5,5 +5,5 @@ workers_dev = true
 compatibility_date = "2024-06-08"
 
 kv_namespaces = [
-	 { binding = "HAMMAL_CACHE", id = "you kv id" }
+	 { binding = "HAMMAL_CACHE", id = "2fb4aff0c8b94c8580fbe86eda034c02" }
 ]
